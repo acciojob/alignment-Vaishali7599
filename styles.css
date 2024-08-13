@@ -4,10 +4,14 @@ h1{
 }
 #table-1 ,#table-2 , #table-3{
 	text-align:center;
-	
+	border: 1px solid black;
+	padding: 1px;
+	border-spacing: 1px;
 	width: 100%;
 }
-
+td{
+	border: 1px solid black;
+}
 
 
 
