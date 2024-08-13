@@ -1,18 +1,19 @@
-/*  your css code here. If applicable */
-h1{
-	text-align: center;
-}
-#table-1 ,#table-2 , #table-3{
-	text-align:center;
-	border: 1px solid black;
-	padding: 1px;
-	border-spacing: 1px;
-	width: 100%;
-}
-td{
-	border: 1px solid black;
+h1 {
+    text-align: center;
 }
 
+#table-1, #table-2, #table-3 {
 
+    border: 1px solid black;
+    padding: 1px;
+    border-spacing: 1px;
+    width: 100%;
+}
 
+td {
+    border: 1px solid black;
+}
 
+.middle {
+    text-align: center;
+}
